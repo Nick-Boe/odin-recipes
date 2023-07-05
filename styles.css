@@ -1,0 +1,20 @@
+body,
+footer {
+  height: auto;
+  width: auto;
+  background-color: rgb(216, 255, 216);
+}
+.header,
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.smol {
+  font-size: 12px;
+  text-align: end;
+}
+.nav {
+  text-align: center;
+  align-items: center;
+  background-color: white;
+  font-size: x-large;
+}
